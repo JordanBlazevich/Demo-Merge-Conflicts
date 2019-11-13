@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Jordan Blazevich
+Created by the one, the only, Jordan Blazevich
